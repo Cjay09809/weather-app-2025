@@ -147,7 +147,7 @@ weather-app/
 * **[Next.js 15](https://nextjs.org/)**
 * **[React 18](https://reactjs.org/)**
 * **[Tailwind CSS](https://tailwindcss.com/)**
-* **[ShadCN UI](https://shadcn.com)**
+* **[ShadCN UI](https://ui.shadcn.com/)**
 * **[TypeScript](https://www.typescriptlang.org/)**
 
 **UI Components**: [Shadcn/ui](https://ui.shadcn.com/), [Lucide React](https://lucide.dev/), [Radix UI](https://www.radix-ui.com/)

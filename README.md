@@ -14,7 +14,6 @@ Get real-time weather data with automatic location detection, beautiful themes, 
 * **GPS Location**: Automatically detects your precise location
 * **IP Geolocation**: Fallback to approximate location via IP address
 * **Manual Search**: Search for any city worldwide
-* **Location History**: Saves your preferred locations
 
 ### 🎨 **Beautiful Design**
 

